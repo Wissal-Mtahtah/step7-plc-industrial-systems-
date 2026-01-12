@@ -93,7 +93,7 @@ Les systèmes ont été validés par simulation en :
 ---
 
 ## 📄 Documentation
-Le rapport technique complet est disponible dans le dossier `report/` et comprend :
+Le rapport technique complet est disponible dans le dossier et comprend :
 - Les cahiers des charges
 - Les tables des mnémoniques
 - Les réseaux en langage Ladder
@@ -132,4 +132,4 @@ Travaux pratiques réalisés dans le cadre d’une formation en **Automatisation
 - ZOUBAI Douha  
 
 **Encadré par** :  
-Monsieur Meddouri
+Monsieur Haddi
